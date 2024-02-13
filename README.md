@@ -6,13 +6,13 @@ I'm a data analyst who is currently studying and gaining experience using variou
 
 In this portfolio, I will showcase projects that I am building during my studies to demonstrate my skills and progress in Data Analytics and related topics.
 
-- 🌱 I'm learning: **Power BI, Python, SQL**
-
-- 💬 Ask me about: **Power BI, Python, SQL, Excel**
-
 - 📫 You can find me: **aliv.camis@gmail.com**
 
 - 📄 More about me: [https://www.linkedin.com/in/camila-almeida-liv/](https://www.linkedin.com/in/camila-almeida-liv/)
+
+- 🏅 My favs repositories [here](https://github.com/stars/CamilaALiv/lists/my-favs)
+  
+- 💻 All repositories: [here](https://github.com/CamilaALiv?tab=repositories)
 
 
 
