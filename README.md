@@ -10,9 +10,9 @@ In this portfolio, I will showcase projects that I am building during my studies
 
 - 📄 More about me: [https://www.linkedin.com/in/camila-almeida-liv/](https://www.linkedin.com/in/camila-almeida-liv/)
 
-- 🏅 My favs repositories [here](https://github.com/stars/CamilaALiv/lists/my-favs)
+- 🏅 My favs projects [here](https://github.com/stars/CamilaALiv/lists/my-favs)
   
-- 💻 All repositories: [here](https://github.com/CamilaALiv?tab=repositories)
+- 💻 All repositories [here](https://github.com/CamilaALiv?tab=repositories)
 
 
 
